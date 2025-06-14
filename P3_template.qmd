@@ -61,7 +61,7 @@ df['month'] = df['month'].map(month_corrections)
 ## Elevator pitch
 _A SHORT (2-3 SENTENCES) PARAGRAPH THAT `DESCRIBES KEY INSIGHTS` TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS._ (Note: this is not a summary of the project, but a summary of the results.)
 
-_A Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client._
+_The airports that have the worst delays by far are the Chicago and San Fransico airports, as their delays take longer on average than other airports and they have more of them. It should be noted that Chicago has the worst delays, but San Fransisco has a higher overall quantity. The airport that performs the best is Salt Lake City's, as it has nearly the shortest delays and fewer delays than other airports._
 
 ## QUESTION|TASK 1
 
